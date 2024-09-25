@@ -6,6 +6,8 @@
 # Использование
 Для начала работы следует клонировать репозиторий и установить зависимости
 ```
+python -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
  ```
 Можно запускать, предварительно получив api ключи для yandexgpt или gigachat
